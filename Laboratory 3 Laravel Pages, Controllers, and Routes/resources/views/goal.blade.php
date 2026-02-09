@@ -11,7 +11,7 @@
     <nav class="bg-white shadow-lg">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-between items-center py-4">
-                <h1 class="text-2xl font-bold text-gray-800">My App</h1>
+                <h1 class="text-2xl font-bold text-gray-800">Jay R Santos Portfolio</h1>
                 <div class="flex space-x-4">
                     <a href="/" class="text-gray-600 hover:text-blue-600">Profile</a>
                     <a href="/goal" class="text-blue-600 font-semibold">Goals</a>
